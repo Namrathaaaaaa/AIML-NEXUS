@@ -1,7 +1,7 @@
 # How to Contributing to AIML-NEXUS ?
 
 Thank you for considering contributing! This guide explains how to fork the repository and create a Pull Request (PR) from your GitHub account.
-And always switch to preprod branch 
+And always switch to preprod branch before contributing or doing a pr
 ## Fork the repository (web)
 
 1. Open: https://github.com/Namrathaaaaaa/AIML-NEXUS
